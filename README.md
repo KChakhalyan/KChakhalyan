@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kchakhalyan&theme=onedark" alt="kchakhalyan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kchakhalyan&theme=onedark&no-frame=true" alt="kchakhalyan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/karenchakhalyan" target="blank"><img src="https://img.shields.io/twitter/follow/karenchakhalyan?logo=twitter&style=for-the-badge" alt="karenchakhalyan" /></a> </p>
 
