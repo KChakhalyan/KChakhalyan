@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/karenchakhalyan" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="karenchakhalyan" height="40" width="40" /></a>
-<a href="https://dribbble.com/kchakhalyan" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="kchakhalyan" height="40" width="40" /></a>
-<a href="https://www.behance.net/kchakhalyan" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="kchakhalyan" height="30" width="40" /></a>
+<a href="https://twitter.com/karenchakhalyan" target="blank" ><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="karenchakhalyan" height="40" width="40" /></a>
+<a href="https://dribbble.com/kchakhalyan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="kchakhalyan" height="40" width="40" /></a>
+<a href="https://www.behance.net/kchakhalyan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="kchakhalyan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
