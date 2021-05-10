@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
-- 💬 Ask me about **Anythig**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **karenchakhalyan23@gmail.com**
 
