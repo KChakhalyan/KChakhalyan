@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/karenchakhalyan" target="blank"><img src="https://img.shields.io/twitter/follow/karenchakhalyan?logo=twitter&style=for-the-badge" alt="karenchakhalyan" /></a> </p>
 
-- 🔭 I’m currently working on [Stream App](https://github.com/KChakhalyan/streams-react-redux)
-
-- 🌱 I’m currently learning **React, Redux**
+- 🔭 I’m currently working on. Nothing 😞
+- 🌱 I’m currently learning **React, Redux**, NextJs
 
 - 💬 Ask me about **Anything**
 
