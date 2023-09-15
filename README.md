@@ -31,7 +31,7 @@ I'm Karen a almost Full Stack Web Developer. I Spend most of my time coding outs
 
 ### Github Stats
 
-![Karen's github stats](https://github-readme-stats.vercel.app/api?username=KChakhalyan&count_private=true&hide_border=true&theme=transparent&hide=contribs,prs)
+![Karen's github stats](https://github-readme-stats.vercel.app/api?username=KChakhalyan&count_private=true&theme=transparent&hide=contribs,prs)
 
 -  :paperclip: [My Resume/CV](#hi-im-karen)
 
