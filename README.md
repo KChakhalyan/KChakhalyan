@@ -25,3 +25,31 @@ I'm Karen a almost Full Stack Web Developer. I Spend most of my time coding outs
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](#)
 
 -  :paperclip: [My Resume/CV](#hi-im-karen)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+<br >
+
+**Passion for Problem-Solving:** I enjoy the process of tackling complex problems and finding creative solutions through coding.
+
+**Continuous Learning:** Coding is a field that constantly evolves, and I relish the opportunity to learn new languages, frameworks, and technologies.
+
+**Programming Languages:** I have expertise in one or more programming languages, such as JavaScript, Typescript, I'm open to exploring new ones.
+
+**Projects and Applications:** Whether it's building software applications, websites, mobile apps, or working on data analysis and machine learning projects, you find fulfillment in bringing your coding skills to life in various domains.
+
+**Collaboration:** I'm open to collaborating with other developers or professionals on projects, as teamwork can lead to innovative solutions.
+
+**Community Involvement:** Engaging with coding communities, forums, and open-source projects is a way to share knowledge, learn from others, and contribute to the broader coding ecosystem.
+
+**Attention to Detail:** Coding often requires a keen eye for detail to write clean, efficient, and bug-free code.
+
+**Problem-Solving Mindset:** I have a natural inclination to break down complex issues into smaller, manageable components and enjoy the challenge of finding solutions step by step.
+
+**Career Opportunities:** With my coding skills and passion, I will pursue a career in software development, web development, or any other tech-related field.
+
+**Personal Fulfillment:** Ultimately, coding is not just a job but a source of personal fulfillment and satisfaction for me. It's a hobby, a profession, and a way of thinking.
+
+</details>
