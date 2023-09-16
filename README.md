@@ -4,7 +4,7 @@
 
 I'm Karen a almost Full Stack Web Developer. I Spend most of my time coding outstanding projects.
 
-[![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FKChakhalyan%2FKChakhalyan%2F&labelColor=%23697689&countColor=%232cccc3&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKChakhalyan%2FKChakhalyan%2F)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKChakhalyan%2FKChakhalyan%2F&labelColor=%23697689&countColor=%232cccc3&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKChakhalyan%2FKChakhalyan%2F)
 
 :mailbox: Reach me out!
 
