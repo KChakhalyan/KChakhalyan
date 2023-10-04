@@ -6,7 +6,9 @@ I'm Karen a almost Full Stack Web Developer. I Spend most of my time coding outs
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FKChakhalyan%2FKChakhalyan%2F&labelColor=%23697689&countColor=%232cccc3&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKChakhalyan%2FKChakhalyan%2F) [![wakatime](https://wakatime.com/badge/user/386c6163-f5bb-4ce1-ab25-2d0ef18e1541.svg?style=for-the-badge)](https://wakatime.com/@386c6163-f5bb-4ce1-ab25-2d0ef18e1541)
 
-:mailbox: Reach me out!
+-  :paperclip: [My Resume/CV](#hi-im-karen)
+-  :mailbox: Reach me out!
+
 
 [![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkaren-chakhalyan-10401a88%2F?style=for-the-badge&logo=linkedin&label=%20&color=%230a66c2)](https://www.linkedin.com/in/karen-chakhalyan-10401a88/) [![[Static Badge]](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KarenChakhalyan) [![[Twitter Badge]](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karenchakhalya23@gmail.com)
 
@@ -43,7 +45,6 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 ![Karen's github stats](https://github-readme-stats.vercel.app/api?username=KChakhalyan&count_private=true&theme=transparent&hide=contribs,prs)
 
--  :paperclip: [My Resume/CV](#hi-im-karen)
 
 <details>
 <summary>
