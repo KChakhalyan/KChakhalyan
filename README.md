@@ -44,7 +44,7 @@ No activity tracked
 
 <details>
 <summary>
- <h1>More stuff about me</h1> <img src="https://github.com/KChakhalyan/KChakhalyan/assets/10487372/3e414fd8-ff12-4c5a-b512-bb0497a606cd"  width="35px" height="35px" />
+ <h1>More about me</h1> <img src="https://github.com/KChakhalyan/KChakhalyan/assets/10487372/3e414fd8-ff12-4c5a-b512-bb0497a606cd"  width="35px" height="35px" />
 
 </summary>
 <br >
