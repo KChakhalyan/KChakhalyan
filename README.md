@@ -2,7 +2,7 @@
 
 🚀 Check out my New Portfolio [Terminal](https://kchakhalyan.github.io/terminal-style-portfolio/)
 
-I'm Karen a almost Full Stack Web Developer. I Spend most of my time coding outstanding projects........
+I'm Karen a almost Full Stack Web Developer. I Spend most of my time coding outstanding projects.
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FKChakhalyan%2FKChakhalyan%2F&labelColor=%23697689&countColor=%232cccc3&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKChakhalyan%2FKChakhalyan%2F) [![wakatime](https://wakatime.com/badge/user/386c6163-f5bb-4ce1-ab25-2d0ef18e1541.svg?style=for-the-badge)](https://wakatime.com/@386c6163-f5bb-4ce1-ab25-2d0ef18e1541)
 
