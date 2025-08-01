@@ -15,7 +15,7 @@ I'm Karen a almost Full Stack Web Developer. I Spend most of my time coding outs
 ### What I currently Do
 
 -  🔭 I’m currently working at `@_nowhere_in_development()`
-<!--  -  🔭 I’m currently working on [Yoga Bliss](https://github.com/KChakhalyan/yoga-bliss) -->
+- -  🔭 I’m currently working on [![wakatime](https://wakatime.com/badge/user/386c6163-f5bb-4ce1-ab25-2d0ef18e1541/project/0bae38c4-9ba0-4b71-a5da-0dc88de31eda.svg)](https://wakatime.com/badge/user/386c6163-f5bb-4ce1-ab25-2d0ef18e1541/project/0bae38c4-9ba0-4b71-a5da-0dc88de31eda)
 -  :computer: Most used line of code `rafce` very useful REACT snippet
 -  🤔 I’m looking for help with improve my developer skils.
 -  📫 How to reach me: [Email](karenchakhalyan23@gmail.com).
