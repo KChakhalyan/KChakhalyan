@@ -32,11 +32,11 @@ I'm Karen a almost Full Stack Web Developer. I Spend most of my time coding outs
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 20 mins  ██████████████▒░░░░░░░░░░   57.07 %
-Python       6 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
-YAML         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Bash         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Git Config   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+TypeScript   9 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.79 %
+Python       6 hrs 25 mins   ████████░░░░░░░░░░░░░░░░░   32.53 %
+YAML         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Text         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Docker       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
