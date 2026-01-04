@@ -38,10 +38,12 @@ Other    1 min           █▓░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+
+<!-- 
 ### Github Stats
-
 ![Karen's github stats](https://github-readme-stats.vercel.app/api?username=KChakhalyan&count_private=true&theme=transparent&hide=contribs,prs)
-
+-->
 
 <details>
 <summary>
