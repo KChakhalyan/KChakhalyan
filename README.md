@@ -32,7 +32,8 @@ I'm Karen a almost Full Stack Web Developer. I Spend most of my time coding outs
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   18 mins         ███████████████████████▒░   93.82 %
+Other    1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
 ```
 
 <!--END_SECTION:waka-->
