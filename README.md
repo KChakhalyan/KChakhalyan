@@ -35,9 +35,8 @@ I'm Karen a almost Full Stack Web Developer. I Spend most of my time coding outs
 <!--START_SECTION:waka-->
 
 ```txt
-HTML    1 hr 10 mins          ████████████████████▒░░░░   81.30 %
-Other   16 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
-CSS     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+HTML   4 mins                ████████████████████████▓   99.02 %
+CSS    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
